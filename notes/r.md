@@ -19,7 +19,7 @@ s. how to use R for stඞtistics
 <details class="callout callout-hammer" markdown="1" open>
 <summary>collection of resources</summary>
 
-- bereits geschriebene Codes: LogR (Hausaufgaben-Sammlung)
+- bereits geschriebene Codes: [LogR](logr.html) (Hausaufgaben-Sammlung)
 - ❤️ favorites:
 	- [swirl package](https://swirlstats.com/) (bester Startpunkt!)
 	- (1): [Danny Arends' lecture series](https://www.youtube.com/playlist?list=PLhR2Go-lh6X4fCAa3c_TBAjZD5A25s7fo)  
@@ -137,7 +137,7 @@ class id5 internal-link;
 <strong class="callout-title">&quot;Mathematiker sind faul.&quot;</strong>
 
 nicht von 0 anfangen → Skripte, die man schonmal erstellt hat, wiederverwenden:
-- LogR 
+- [LogR](logr.html) 
 - [schmeRzhub](http://100.116.21.74:8888/files/Workspaces/schmerzhub/v2/index.html?_xsrf=2|dd37d6e4|4379a2af19b4b61da61eaa2ddc2d15e9|1766325485) 
 
 </blockquote>
@@ -232,4 +232,6 @@ R functions > Umgang mit functions
 <hr style="border: none; height: 1px; border-bottom: 1px solid; border-image-slice: 1; border-width: 3px; border-image-source: linear-gradient(to right, transparent, lightsalmon, transparent); margin-top: 20px; margin-bottom: 20px; ">
 
 parent: Programmiersprachen
-citations: see collection of resources
+citations: 
+[^1]: 
+[^2]: 
