@@ -44,33 +44,33 @@ Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 | **[Leitlinienwatch](https://www.leitlinienwatch.de/)**             | –                                                            |
 | **[DocFlex](https://flexikon.doccheck.com/)**                      | FlexDoc, DoctorFlex, FlexiDoc, FlexCheck, CheckDoc.          |
 | **[Amboss](https://next.amboss.com/de/ai-mode)**                   | Aktuell gehaltenes Kompendium und Leitlinien im AI-Mode.     |
-| **[Projekt Anki](https://linktr.ee/anki_lokal)**                   | Anki-Decks des BVMD                                          |
 
 ## 📚 Datenbanken & Atlanten
 
-| Link | Beschreibung |
-|:--|:--|
-| **[Radiopaedia](https://radiopaedia.org/)** | – |
-| **[Ars neurochirurgica](https://www.ars-neurochirurgica.com/)** | – |
-| **[embryology.ch](https://embryology.ch/)** | – |
-| **[Kenhub](https://www.kenhub.com/de)** | Anatomie-Wissen Online. |
-| **[physiologie.cc](https://physiologie.cc/index.html)** | RIP. |
-| **[Z-Anatomy](https://nqwrc.github.io/3d-anatomy/)** | Ein 3D-Anatomie-Atlas. |
-| **[Sono-Atlas](https://sonographiebilder.de/sonographie-atlas)** | – |
-| **[Anatomy Standard](https://www.anatomystandard.com/)** | Meine Lieblings-Referenz für die Anatomie des Bewegungsapparats. |
-| **[Dr. Jastrows EM-Atlas](http://www.drjastrow.de/)** | – |
-| **[HistoHal](https://histohal.uni-halle.de/)** | – |
-| **[OrphaNet](https://www.orpha.net/consor/cgi-bin/index.php)** | Wiki für seltene Erkrankungen. |
-| **[OMIM](https://www.omim.org/)** | Meine Lieblings-Datenbank fürs Nachschlagen von Genloci (mit assoziierten Erkrankungen und je einem wissenschaftlichen Artikel). |
-| **[Non-Neoplastic Lesion Atlas](https://ntp.niehs.nih.gov/atlas/nnl/nervous-system/brain/Neuron-Chromatolysis)** | HE-Atlas für Mäuse. |
-| **[Reactome](https://reactome.org/PathwayBrowser/#/)** | Atlas über den menschlichen Stoffwechsel / Signaling Pathways. |
-| **[Human Proteome Atlas](https://www.proteinatlas.org/)** | Atlas über das menschliche Proteom. (Sehr tolle Ressource!) |
-| **[Online Stats Book](https://onlinestatbook.com/)** | – |
-| **[StatistikGuru](https://statistikguru.de/)** | Von einem Psychologie-Dozenten aus Mainz. |
-| **[EyeWiki](https://eyewiki.org/)** | Wiki der amerikanischen Fachgesellschaft für Auge. |
-| **[Urologie-Lehrbuch](https://www.urologielehrbuch.de/index.html)** | – |
-| **[Wikipedia Medizin](https://en.wikipedia.org/wiki/Portal:Medicine)** | Wikipedia für MedizinerInnen (Alternativ: mdwiki.org). |
-| **[Onkopedia](https://www.onkopedia.com/de)** | – |
+| Link                                                                                                             | Beschreibung                                                                                                                     |
+|:---------------------------------------------------------------------------------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------- |
+| **[Radiopaedia](https://radiopaedia.org/)**                                                                      | –                                                                                                                                |
+| **[Ars neurochirurgica](https://www.ars-neurochirurgica.com/)**                                                  | –                                                                                                                                |
+| **[embryology.ch](https://embryology.ch/)**                                                                      | –                                                                                                                                |
+| **[Kenhub](https://www.kenhub.com/de)**                                                                          | Anatomie-Wissen Online.                                                                                                          |
+| **[physiologie.cc](https://physiologie.cc/index.html)**                                                          | RIP.                                                                                                                             |
+| **[Z-Anatomy](https://nqwrc.github.io/3d-anatomy/)**                                                             | Ein 3D-Anatomie-Atlas.                                                                                                           |
+| **[Sono-Atlas](https://sonographiebilder.de/sonographie-atlas)**                                                 | –                                                                                                                                |
+| **[Anatomy Standard](https://www.anatomystandard.com/)**                                                         | Meine Lieblings-Referenz für die Anatomie des Bewegungsapparats.                                                                 |
+| **[Dr. Jastrows EM-Atlas](http://www.drjastrow.de/)**                                                            | –                                                                                                                                |
+| **[HistoHal](https://histohal.uni-halle.de/)**                                                                   | –                                                                                                                                |
+| **[OrphaNet](https://www.orpha.net/consor/cgi-bin/index.php)**                                                   | Wiki für seltene Erkrankungen.                                                                                                   |
+| **[OMIM](https://www.omim.org/)**                                                                                | Meine Lieblings-Datenbank fürs Nachschlagen von Genloci (mit assoziierten Erkrankungen und je einem wissenschaftlichen Artikel). |
+| **[Non-Neoplastic Lesion Atlas](https://ntp.niehs.nih.gov/atlas/nnl/nervous-system/brain/Neuron-Chromatolysis)** | HE-Atlas für Mäuse.                                                                                                              |
+| **[Reactome](https://reactome.org/PathwayBrowser/#/)**                                                           | Atlas über den menschlichen Stoffwechsel / Signaling Pathways.                                                                   |
+| **[Human Proteome Atlas](https://www.proteinatlas.org/)**                                                        | Atlas über das menschliche Proteom. (Sehr tolle Ressource!)                                                                      |
+| **[Online Stats Book](https://onlinestatbook.com/)**                                                             | –                                                                                                                                |
+| **[StatistikGuru](https://statistikguru.de/)**                                                                   | Von einem Psychologie-Dozenten aus Mainz.                                                                                        |
+| **[EyeWiki](https://eyewiki.org/)**                                                                              | Wiki der amerikanischen Fachgesellschaft für Auge.                                                                               |
+| **[Urologie-Lehrbuch](https://www.urologielehrbuch.de/index.html)**                                              | –                                                                                                                                |
+| **[Wikipedia Medizin](https://en.wikipedia.org/wiki/Portal:Medicine)**                                           | Wikipedia für MedizinerInnen (Alternativ: mdwiki.org).                                                                           |
+| **[Onkopedia](https://www.onkopedia.com/de)**                                                                    | –                                                                                                                                |
+| **[Projekt Anki](https://linktr.ee/anki_lokal)**                                                                 | Anki-Decks des BVMD                                                                                                              |
 
 ## 🎓 Forschung
 
