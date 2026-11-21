@@ -1,5 +1,7 @@
 ---
-title: "dendrite"
+title: "dendrite | Index"
 ---
 
-Notes published from Obsidian appear here. Maintain this index manually as you publish more notes.
+# Map of Content
+
+- [home](https://hueseyinabi.github.io/dendrite/notes/dendrite.html) 
