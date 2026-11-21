@@ -233,5 +233,5 @@ R functions > Umgang mit functions
 
 parent: Programmiersprachen
 citations: 
-[^1]: 
+[^1]: Danny Arends: "Data Analysis in R", available at https://www.youtube.com/playlist?list=PLhR2Go-lh6X4fCAa3c_TBAjZD5A25s7fo 
 [^2]: 
