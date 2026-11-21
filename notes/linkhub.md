@@ -26,24 +26,25 @@ Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 
 ## 🩺 Klinische Ressourcen
 
-| Link | Beschreibung |
-|:--|:--|
-| **[OpenEvidence](https://www.openevidence.com/)** | Bestes Chat-Tool für internationale Literatur. VPN benötigt. |
-| **[UpToDate](https://www.uptodate.com/app/)** | Aktuellstes Nachschlagewerk für medizinische Inhalte. |
-| **[Befundomat](https://befundomat.de/)** | – |
-| **[EmbryoTox](https://www.embryotox.de/)** | – |
-| **[LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK547852/)** | Wie EmbryoTox, aber für Hepatotoxizität. |
-| **[Priscus-Liste](https://www.priscus2-0.de/priscus-2.html)** | – |
-| **[MDCalc](https://www.mdcalc.com/)** | – |
-| **[Drugs.com](https://www.drugs.com/)** | – |
-| **[Examine.com](https://examine.com/)** | Absolute Lieblings-Ressource für Supplement-Infos. |
-| **[Gelbe Liste](https://www.gelbe-liste.de/wirkstoffe/)** | – |
-| **[DGE](https://www.dgn.org/)** | Evidenzbasierte Infos & Tools zu Ernährung. |
-| **[DGN One](https://www.dgn.org/)** | – |
-| **[AWMF Leitlinien-Register](https://register.awmf.org/de/start)** | – |
-| **[Leitlinienwatch](https://www.leitlinienwatch.de/)** | – |
-| **[DocFlex](https://flexikon.doccheck.com/)** | FlexDoc, DoctorFlex, FlexiDoc, FlexCheck, CheckDoc. |
-| **[Amboss](https://next.amboss.com/de/ai-mode)** | Aktuell gehaltenes Kompendium und Leitlinien im AI-Mode. |
+| Link                                                               | Beschreibung                                                 |
+|:------------------------------------------------------------------ |:------------------------------------------------------------ |
+| **[OpenEvidence](https://www.openevidence.com/)**                  | Bestes Chat-Tool für internationale Literatur. VPN benötigt. |
+| **[UpToDate](https://www.uptodate.com/app/)**                      | Aktuellstes Nachschlagewerk für medizinische Inhalte.        |
+| **[Befundomat](https://befundomat.de/)**                           | –                                                            |
+| **[EmbryoTox](https://www.embryotox.de/)**                         | –                                                            |
+| **[LiverTox](https://www.ncbi.nlm.nih.gov/books/NBK547852/)**      | Wie EmbryoTox, aber für Hepatotoxizität.                     |
+| **[Priscus-Liste](https://www.priscus2-0.de/priscus-2.html)**      | –                                                            |
+| **[MDCalc](https://www.mdcalc.com/)**                              | –                                                            |
+| **[Drugs.com](https://www.drugs.com/)**                            | –                                                            |
+| **[Examine.com](https://examine.com/)**                            | Absolute Lieblings-Ressource für Supplement-Infos.           |
+| **[Gelbe Liste](https://www.gelbe-liste.de/wirkstoffe/)**          | –                                                            |
+| **[DGE](https://www.dgn.org/)**                                    | Evidenzbasierte Infos & Tools zu Ernährung.                  |
+| **[DGN One](https://www.dgn.org/)**                                | –                                                            |
+| **[AWMF Leitlinien-Register](https://register.awmf.org/de/start)** | –                                                            |
+| **[Leitlinienwatch](https://www.leitlinienwatch.de/)**             | –                                                            |
+| **[DocFlex](https://flexikon.doccheck.com/)**                      | FlexDoc, DoctorFlex, FlexiDoc, FlexCheck, CheckDoc.          |
+| **[Amboss](https://next.amboss.com/de/ai-mode)**                   | Aktuell gehaltenes Kompendium und Leitlinien im AI-Mode.     |
+| **[Projekt Anki](https://linktr.ee/anki_lokal)**                   | Anki-Decks des BVMD                                          |
 
 ## 📚 Datenbanken & Atlanten
 
