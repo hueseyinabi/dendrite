@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Meine Link-Sammlung
+title: "LinkHub"
 ---
 
 # 🔗 LinkHub - Meine **Link**-Sammlung für Git**Hub**
