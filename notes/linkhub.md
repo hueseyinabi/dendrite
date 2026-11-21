@@ -18,10 +18,11 @@ Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 
 ## 🛠️ Productivity Tools
 
-| Link | Beschreibung |
-|:--|:--|
-| **[Pomofocus](https://pomofocus.io/)** | Mein Lieblings-Webtool für Pomodoro. |
-| **[Excalidraw](https://excalidraw.com/)** | Beste Whiteboard-App. |
+| Link                                      | Beschreibung                         |
+|:----------------------------------------- |:------------------------------------ |
+| **[Pomofocus](https://pomofocus.io/)**    | Mein Lieblings-Webtool für Pomodoro. |
+| **[Excalidraw](https://excalidraw.com/)** | Beste Whiteboard-App.                |
+| [](https://plaza.one/)                    |                                      |
 
 ## 🩺 Klinische Ressourcen
 
