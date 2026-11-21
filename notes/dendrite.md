@@ -3,10 +3,10 @@ title: "DENDRITE"
 Aliases: [ "#SYNAPSE" ]
 ---
 
-- Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wichtigen files, die ich häufig brauche sammelt, dient auch als step-by-step Anleitung für den wissenschaftlichen Prozess.
-- 
+Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wichtigen files, die ich häufig brauche sammelt, dient auch als step-by-step Anleitung für den wissenschaftlichen Prozess.
 
->[!link] Dashboard
+>[!link] Wichtige Links
+>- LinkHub 
 
 ## Clinical Corner 🩺 
 
