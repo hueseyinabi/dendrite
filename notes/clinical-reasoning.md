@@ -12,7 +12,7 @@ banner_y: 0.136
 1. **clinical method** n. A&V: AKU → Lokalisation → Syndrom
 2. **strukturierte Differentialdiagnose**:
 	- a) DDx des jeweiligen Syndroms auswendig kennen o. nachschlagen
-	- b) leitsymptom_template als Hilfsmittel in der Ausbildungsphase, als Rückfallebene bei komplexen Fällen ("Team-Timeout" w/ Flipchart/Whiteboard) o. als didaktisches Tool
+	- b) [leitsymptom_template](leitsymptom-template.html) als Hilfsmittel in der Ausbildungsphase, als Rückfallebene bei komplexen Fällen ("Team-Timeout" w/ Flipchart/Whiteboard) o. als didaktisches Tool
 3. **Ranking** der DDx nach individueller Vortestwahrscheinlichkeit
 4. sinnvolle **apparative Diagnostik** auswählen
 
@@ -20,7 +20,7 @@ banner_y: 0.136
 
 >[!info]- Variante für Innere
 > 1. Identifikation der Leitsymptome
-> 2. DD zu den Leitsymptomen gem. TANTE PIAV 
+> 2. DD zu den Leitsymptomen gem. [TANTE PIAV](dxcompass.html) 
 > 3. Top 3 "Ranking" erstellen, welche dieser Verdachtsdiagnosen am <abbr title="z.B. bei welchen der DD kommen mehrere der Leitsymptome vor">wahrscheinlichsten</abbr> sind, u.a. anhand <abbr title="Alter- + Geschlecht Population">base-rate</abbr> 
 > 4. zu jeder dieser Verdachtsdiagnosen indizierte Diagnostik-Batterie überlegen 
 > 5. Befunde interpretieren → Ranking updaten
@@ -43,7 +43,7 @@ banner_y: 0.136
 >	- strukturierte_differentialdiagnose
 >		- auch hilfreich für: strukturierte Übergabe 
 >- zum Nachschlagen:
->	- DxCompass
+>	- [DxCompass](dxcompass.html)
 >	- Casus
 
 ---
@@ -51,7 +51,7 @@ banner_y: 0.136
 ## Wege, um zu einer Diagnose zu kommen
 
 - abh. vom Erfahrungslevel:
-	- Checklist-Approach bspw. w/ [surgical sieves](https://en.wikipedia.org/wiki/Surgical_sieve) z.B. TANTE PIAV  
+	- Checklist-Approach bspw. w/ [surgical sieves](https://en.wikipedia.org/wiki/Surgical_sieve) z.B. [TANTE PIAV](leitsymptom-template.html)  
 	- Mischformen: Syndrom recognizen → innerhalb dieser Schublade checklist-artig Differentialdiagnose ("Syndromatologie")
 	- Pattern Recognition (in Zeitdruck Ausweichmethode)
 		- Extremform: Blickdiagnose
@@ -75,24 +75,19 @@ banner_y: 0.136
 
 ## Ressourcensammlung
 
-- **EU-Initiative & Online-Curriculum**: https://did-act.eu/integration-guide/ 
+- [EU-Initiative & Online-Curriculum](https://did-act.eu/integration-guide/) 
 - **Podcasts** 
-	- https://clinicalproblemsolving.com/ 
-	- https://denkfabrikmedizin.de/ 
-	- Backups: 
-		- [Clinical Problem Solvers](http://100.116.21.74:13378/audiobookshelf/item/51705bc2-e6bd-41c7-930d-0de3ef69aa59) 
-		- [Denkfabrik Medizin](http://100.116.21.74:13378/audiobookshelf/item/4969f77c-701f-4b8d-a6d1-d7622ebfb3c9) 
+	- [Clinical Problem Solvers](https://clinicalproblemsolving.com/) 
+	- [Denkfabrik Medizin](https://denkfabrikmedizin.de/)
 - **Paper**
 	- @ClinicalReasoningCorner2020 
-- **Videos**
-	- [OfflineAcademy > Sammelsurium](http://100.116.21.74:3001/courses/sammelsurium-clinical-reasoning) 
 - **Bücher**
 	- McGee Physical Diagnosis
 	- [Neurology Clinical Reasoning Book](http://100.116.21.74:25601/series/0REVAZ20X64J5) 
 
 <hr style="border: none; height: 1px; border-bottom: 1px solid; border-image-slice: 1; border-width: 3px; border-image-source: linear-gradient(to right, transparent, lightsalmon, transparent); margin-top: 20px; margin-bottom: 20px; ">
 
-parent: Der Arztberuf, clinical skills  
+parent: Der Arztberuf, [clinical skills](clinical-skills.html)  
 children:
 - Heuristiken in der medizinischen Diagnostik 
 tags: 
