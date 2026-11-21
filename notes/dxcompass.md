@@ -13,8 +13,9 @@ Eine Datenbank an Leitsymptomen und klinischen Syndromen samt diagnostischer Alg
 
 >[!opinion]- Why tho?
 >- Im Rahmen meiner letzten Famulatur ist mir aufgefallen, dass wir im Uni-Alltag Krankheiten falschrum lernen.
->- Logistischerweise lernt man Stereotyp für jede Krankheit, Ideologie, Klinik, Pathologie, Diagnose und Therapie.
+>- Logistischerweise lernt man Stereotyp für jede Krankheit, Ätiologie, Klinik, Pathophysiologie, Diagnose und Therapie.
 >- In der Realität stellen sich Patienten allerdings nicht vor mit einer bekannten Krankheit, sondern mit Symptomen. Und dann muss man diese Symptome interpretieren und wissen, welche diagnostischen und therapeutischen Schritte man einleiten muss.
+>	- Das Leben wäre einfach, wenn die Pat. sagen würden: "Liebe Frau Doktor, ich glaube ich habe am ehesten A), B), C), D) o. E)!"
 
 >[!connection] fürs Lernen
 >- Casus zur Überprüfung des hier Gelernten nutzen
