@@ -108,7 +108,6 @@ Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 | **[Haikei](https://haikei.app/)** | – |
 | **[Bioicons + Draw.io](https://app.diagrams.net/?splash=0&clibs=Uhttps://bioicons.com/drawio-lib/Bioicons-Scientific_graphs.xml)** | = ❤️ (weitere Bioicons-Bibliotheken in Draw.io über *+ More Shapes* nachladen) |
 | **[SciDraw](https://scidraw.io/)** | – |
-| **[KI-Slides](https://ki-slides.druysal.com/)** | – |
 
 ## 📃 Dokumentbearbeitung
 
