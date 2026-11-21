@@ -83,7 +83,7 @@ banner_y: 0.136
 	- @ClinicalReasoningCorner2020 
 - **Bücher**
 	- McGee Physical Diagnosis
-	- [Neurology Clinical Reasoning Book](http://100.116.21.74:25601/series/0REVAZ20X64J5) 
+	- [Neurology Clinical Reasoning Book](https://www.neurology.org/resident-fellow/clinical-reasoning-book) 
 
 <hr style="border: none; height: 1px; border-bottom: 1px solid; border-image-slice: 1; border-width: 3px; border-image-source: linear-gradient(to right, transparent, lightsalmon, transparent); margin-top: 20px; margin-bottom: 20px; ">
 
