@@ -6,7 +6,6 @@ Aliases: [ "#SYNAPSE" ]
 Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wichtigen files, die ich häufig brauche sammelt, dient auch als step-by-step Anleitung für den wissenschaftlichen Prozess.
 
 >[!key] Key MOCs 
->- [LinkHub](linkhub.html) 
 >- [Clinical Reasoning](clinical-reasoning.html) 
 
 ## Clinical Corner 🩺 
