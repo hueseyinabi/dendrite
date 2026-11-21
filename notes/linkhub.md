@@ -22,7 +22,7 @@ Kuratiertes Link-Verzeichnis für Klinik, Forschung und Produktivität.
 |:----------------------------------------- |:------------------------------------ |
 | **[Pomofocus](https://pomofocus.io/)**    | Mein Lieblings-Webtool für Pomodoro. |
 | **[Excalidraw](https://excalidraw.com/)** | Beste Whiteboard-App.                |
-| [](https://plaza.one/)                    |                                      |
+| **[Nightwave Plaza](https://plaza.one/)** | tolles Lofi-Internetradio            |
 
 ## 🩺 Klinische Ressourcen
 
