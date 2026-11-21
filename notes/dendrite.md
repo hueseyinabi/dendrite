@@ -5,13 +5,13 @@ Aliases: [ "#SYNAPSE" ]
 
 Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wichtigen files, die ich häufig brauche sammelt, dient auch als step-by-step Anleitung für den wissenschaftlichen Prozess.
 
->[!link] Wichtige Links
+>[!key] Key MOCs 
 >- LinkHub 
->- Clinical Reasoning 
+>- [Clinical Reasoning](clinical-reasoning.html) 
 
 ## Clinical Corner 🩺 
 
-### Key MOCs 🔑
+### databases & guides 🗂️
 
 - DxCompass 
 - clinical skills 
