@@ -38,8 +38,8 @@ Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wich
 
 ### Ressourcen 📚
 
-- ../../ressources/!Documents/Anleitungen & Leitfäden/Calgary Cambridge Schema.pdf 
-- Antibiotika-Mosaik_2025 
+- Calgary Cambridge Schema.pdf 
+- Antibiotika-Mosaik_2025.pdf 
 - Übersicht über das Meldesystem 
 - meldepflichtige Krankheiten / Erreger 
 - Bronchial-Ca Staging-Karten 
@@ -61,8 +61,8 @@ Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wich
 6. Durchführung des Projekts:
 	1. Studienplanung & -ablauf 
 	2. eLab 
-	3. Biostatistik 
-	4. statistical software  
+	3. [Biostatistik](biostatistik.html) 
+	4. [statistical software](statistical-software.html)  
 	5. Authoring 
 
 <hr style="border: none; height: 1px; border-bottom: 1px solid; border-image-slice: 1; border-width: 3px; border-image-source: linear-gradient(to right, transparent, lightsalmon, transparent); margin-top: 20px; margin-bottom: 20px; ">
