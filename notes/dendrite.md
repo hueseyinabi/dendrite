@@ -29,7 +29,7 @@ eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wich
 
 ### Survival Guides 🚨
 
-- Survival Guide - Notaufnahme 
+- [Survival Guide - Notaufnahme](survival-guide-notaufnahme.html) 
 - Survival Guide - Normalstation 
 - Survival Guide - Intensivstation 
 - Survival Guide - Stroke Unit 
