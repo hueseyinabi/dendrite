@@ -231,6 +231,7 @@ R functions > Umgang mit functions
 
 <hr style="border: none; height: 1px; border-bottom: 1px solid; border-image-slice: 1; border-width: 3px; border-image-source: linear-gradient(to right, transparent, lightsalmon, transparent); margin-top: 20px; margin-bottom: 20px; ">
 
-parent: Programmiersprachen<br>citations: 
+parent: Programmiersprachen
+citations: 
 [^1]: Danny Arends: "Data Analysis in R", available at https://www.youtube.com/playlist?list=PLhR2Go-lh6X4fCAa3c_TBAjZD5A25s7fo 
 [^2]: Arbeiseinheit Analyse und Modellierung komplexer Daten, Psychologisches Institut, JGU Mainz, available at https://amd-lab.github.io/R-Kurs-Buch/ 
