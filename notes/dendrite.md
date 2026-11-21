@@ -17,7 +17,7 @@ eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wich
 ### Befundbögen ✅
 
 - [ ] neurologische Untersuchung #todo 
-- [ ] weird / neurologische Anamnese (Lakritz, sussy horny, sussy food) #todo 
+- [ ] weird / neurologische Anamnese (Lakritz wegen Glycirrinsäure etc.) #todo 
 - Anamnese und körperliche Untersuchung 
 - Notfallanamnese.odt 
 - [ ] rapid neuro exam 
