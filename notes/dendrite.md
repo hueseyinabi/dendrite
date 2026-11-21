@@ -7,6 +7,7 @@ Eine #MOC, die als Companion bei der Arbeit dienen soll, in dem es Links zu wich
 
 >[!link] Wichtige Links
 >- LinkHub 
+>- Clinical Reasoning 
 
 ## Clinical Corner 🩺 
 
