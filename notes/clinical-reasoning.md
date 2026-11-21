@@ -51,7 +51,7 @@ banner_y: 0.136
 ## Wege, um zu einer Diagnose zu kommen
 
 - abh. vom Erfahrungslevel:
-	- Checklist-Approach bspw. w/ [surgical sieves](https://en.wikipedia.org/wiki/Surgical_sieve) z.B. TANTE PIAV 
+	- Checklist-Approach bspw. w/ [surgical sieves](https://en.wikipedia.org/wiki/Surgical_sieve) z.B. TANTE PIAV  
 	- Mischformen: Syndrom recognizen → innerhalb dieser Schublade checklist-artig Differentialdiagnose ("Syndromatologie")
 	- Pattern Recognition (in Zeitdruck Ausweichmethode)
 		- Extremform: Blickdiagnose
@@ -59,15 +59,14 @@ banner_y: 0.136
 
 ### fachspezifische Workflows
 
-- ../../../../eLab/clinical skills/neuroskills/neuroskills > Arbeitsweise: Wie funktioniert Neurologie? The clinical method 
-- ../../../../Mensch & Natur/neuroscience/Klinik/Psychiatrie/Psychiatrie > Diagnostik  
+- neuroskills > Arbeitsweise: Wie funktioniert Neurologie? The clinical method  
+- Psychiatrie > Diagnostik  
 
 ## sinnvolle Diagnostik machen
 
 - Anamnese → KU → Apparativ/Labor, s. #fachspezifische Workflows 
-- man sollte ein gutes Verständnis für Testtheorie (s. auch children) haben
+- man sollte ein gutes Verständnis für Testtheorie > Meinung (s. auch children) haben
 	- als ÄrztIn macht man ja den ganzen Tag Befunde & Diagnostik
-		- s. ../../../../Biomedizinische Forschung/Methodenlehre/Biostatistik/Testtheorie/Testtheorie > Meinung 
 	- hilfreiches Werkzeug für den Alltag: LR
 - hilfreich: Epidemiologie (Häufiges ist häufig, Seltenes ist selten)
 - Der Arztberuf: Grundverständnis für Pathophysiologie & Wissenschaftstheorie/Statistik → selber denken können, keine "Fließbandmedizin"
