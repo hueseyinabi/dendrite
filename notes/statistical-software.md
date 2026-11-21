@@ -7,7 +7,7 @@ tags: biosync/systems/subtag SYNAPSE
 
 ## Übersicht
 
-- R 👑
+- [R](r.html) 👑
 
 >[!quote]- GUIs für R
 >- Vergleich: @GraphicalUserInterface2019
@@ -114,4 +114,4 @@ bei der Benennung von Variablen müssen einige Bedingungen erfüllt sein, damit 
 | Falls Codierung oder Berechnungen: hinter `_` | z. B. `dice_mean` oder `coinflip_head1_tail0` |
 
 ---
-parent: Biostatistik, Bioinformatik
+parent: [Biostatistik](biostatistik.html), Bioinformatik
